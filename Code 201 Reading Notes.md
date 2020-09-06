@@ -19,12 +19,12 @@ View the _config.yml file by navigating to it in the Code tab. You can edit the 
 
 for more informations [click here](https://guides.github.com/features/pages/#setup)
 
-| Syntax | Description             |
-| -------| -----------             |
-| NUM    | Reading assigments      |
-|    1   |                         |
-|    2   |                         |
-|    3   |                         |
-|    4   |                         |
-|    5   |                         |
-|    6   |                         |
+| Syntax        | Description                                                           |
+| --------------| ----------------------------------------------------------------------|
+| NUM           | Reading assigments                                                    |
+|   class-01    |   [Link](https://raniaabdullahh.github.io/reading-notes-201/class-01) |
+|    class-02   |  [Link](https://raniaabdullahh.github.io/reading-notes-201/class-02 ) |
+|    class-03   |                                                                       |
+|    class-04   |                                                                       |
+|    class-05   |                                                                       |
+|    class-06   |                                                                       |
