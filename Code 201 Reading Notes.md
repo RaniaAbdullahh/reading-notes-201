@@ -25,6 +25,6 @@ for more informations [click here](https://guides.github.com/features/pages/#set
 |   class-01    |   [Link](https://raniaabdullahh.github.io/reading-notes-201/class-01) |
 |    class-02   |  [Link](https://raniaabdullahh.github.io/reading-notes-201/class-02 ) |
 |    class-03   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-03)  |
-|    class-04   |                                                                       |
+|    class-04   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-04)  |
 |    class-05   |                                                                       |
 |    class-06   |                                                                       |
