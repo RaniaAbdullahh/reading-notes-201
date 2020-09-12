@@ -27,4 +27,4 @@ for more informations [click here](https://guides.github.com/features/pages/#set
 |    class-03   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-03)  |
 |    class-04   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-04)  |
 |    class-05   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-05)  |
-|    class-06   |                                                                       |
+|    class-06   |  [link](https://raniaabdullahh.github.io/reading-notes-201/class-06)  |
